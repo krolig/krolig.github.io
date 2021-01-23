@@ -1,0 +1,26 @@
+  body { scrollbar-face-color: #888888; scrollbar-highlight-color: #666666;	scrollbar-shadow-color: #000000; scrollbar-3dlight-color: #000000; scrollbar-arrow-color: #000000; scrollbar-track-color: #222222; scrollbar-darkshadow-color: #000000; background-color: #333333; margin: 0; padding: 0; font: 0.875em Verdana, Arial; color: #ccc; }
+ form { margin: 0; padding: 0; }
+ table { padding: 0; /*border-collapse: collapse;*/  }
+ a:link { color: #5498d9; text-decoration: underline; }
+ a:visited { color: #5498d9; text-decoration: underline; }
+ a:active { color: #5498d9; }
+ a:hover { color: #9bb5d0; text-decoration: none; }
+ ul, li { margin: 0; padding: 0; }
+ ul { margin: 10px 0 0 0;}
+ li { margin: 0 0 0 5px; }
+ ul li { list-style: none; }
+ ul li.lihead { margin: 0 0 0 0px; font-weight: bold; color: #888; }
+ #main { padding: 2% 0 0 0; margin: 0px 20px 10px 20px; }
+ .hdr, h2 { text-align: left; color: #d4aca0; font: 1.2em Arial; }
+ #main h2 { margin: 0 0 5px 0; }
+ h2 a:link,  h2 a:visited  { color: #d4aca0; }
+ h2 a:hover { color: #d4aca0; }
+
+ span.bl { color: #d4aca0; font-family: courier;}
+ span.white { color: #fff; }
+
+ td, input { font: 0.875em Verdana, Arial; }
+ input { font-size: inherit; -webkit-border-radius: 12px; -moz-border-radius: 12px; border-radius: 12px; }
+
+
+ h1, h2, h3, h4, h5, h6 { font-weight: normal; margin: 0; padding: 0;  }
